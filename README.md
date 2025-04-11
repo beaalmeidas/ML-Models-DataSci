@@ -5,8 +5,8 @@
 ---
 
 ## Componentes:
-- **Modelo 1:** Clusterização de Bairros em João Pessoa
-- **Modelo 2:** Classificação Binária de Tumores de Câncer de Mama
+- **Modelo 1:** Clusterização de bairros em João Pessoa de acordo com medidores socioeconômicos
+- **Modelo 2:** Classificação Binária de tumores de câncer de mama
 - **Modelo 3:** Regressão Linear de Dados de Cultivo de Milho
 
 #### Datasets:
@@ -55,4 +55,5 @@ breast_cancer_data = pd.read_csv("datasets/breast_cancer.csv", encoding="utf-8")
 ## Créditos
 
 **Autores:** Beatriz Almeida de Souza Silva, Rigel Sales de Souza
+</br>
 **Professor:** Ricardo Roberto de Lima
