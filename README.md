@@ -18,6 +18,13 @@
 
 ## Como executar
 
+O projeto do modelo 1 (Clusterização de bairros de JP) tem deploy no Streamlit, e está disponível no link: https://bairros-jp-clusters.streamlit.app/
+
+Para rodar o Streamlit localmente, usar o comando:
+```
+streamlit run streamlit/app.py
+```
+
 ### Com uma IDE:
 **1.** Clone o repositório  
 [https://github.com/beaalmeidas/ML-models-ECMD.git](https://github.com/beaalmeidas/ML-models-ECMD.git)
