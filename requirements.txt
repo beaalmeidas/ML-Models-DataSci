@@ -11,6 +11,7 @@ cycler==0.12.1
 fonttools==4.57.0
 gitdb==4.0.12
 GitPython==3.1.44
+hdbscan==0.8.40
 idna==3.10
 Jinja2==3.1.6
 joblib==1.4.2
