@@ -1,0 +1,501 @@
+tipo_solo,ph_solo,umidade_solo_inicial,tipo_semente,chuva_total_estimada_mm,temperatura_media_ciclo,dias_geada,horas_sol_dia,sistema_irrigacao,uso_fertilizante_kg_ha,uso_inseticida_l_ha,uso_herbicida_l_ha,numero_funcionarios,mecanizacao,rotacao_culturas,regiao,area_total_plantio_ha,produtividade_milho_kg_ha
+siltoso,6.53,30.9,crioula,929.2,27.2,5,8.9,aspersão,147.7,1.9,3.28,9,parcial,sim,Sul,33.6,4386
+argiloso,7.22,18.1,transgênica,867.5,22.8,5,8.3,pivô central,216.6,3.97,0.26,7,total,não,Nordeste,44.8,4684
+argiloso,6.97,31.5,transgênica,446.2,24.2,2,9.2,pivô central,157.9,1.54,4.53,1,parcial,sim,Nordeste,8.8,4810
+siltoso,6.5,29.5,crioula,868.1,21.6,9,8.0,pivô central,207.3,4.93,3.55,3,parcial,sim,Sul,30.9,4775
+argiloso,6.63,15.5,transgênica,1102.4,25.6,2,8.0,pivô central,245.7,0.78,2.91,5,manual,não,Centro-Oeste,78.2,4342
+argiloso,4.7,34.0,transgênica,1046.0,25.3,0,5.4,gotejamento,156.5,1.7,4.66,8,parcial,sim,Sudeste,86.1,4153
+misto,6.47,16.9,híbrida,956.8,26.9,5,5.5,aspersão,232.0,2.15,0.61,2,parcial,não,Nordeste,31.0,4542
+misto,6.19,29.0,híbrida,962.9,20.9,8,5.6,gotejamento,80.9,2.97,4.88,7,manual,sim,Sudeste,93.9,4481
+siltoso,5.04,26.9,transgênica,629.5,19.5,6,6.8,sem irrigação,146.8,0.64,1.03,5,manual,sim,Nordeste,10.4,4758
+siltoso,7.71,14.2,crioula,1062.3,28.0,8,5.4,gotejamento,213.5,3.34,4.16,7,manual,não,Centro-Oeste,68.8,4666
+argiloso,5.69,32.6,híbrida,1153.8,21.7,4,9.8,sem irrigação,142.4,4.95,4.9,3,manual,sim,Sudeste,69.3,4862
+arenoso,5.08,30.1,crioula,417.3,25.8,1,8.6,gotejamento,193.5,4.27,0.57,5,total,não,Sul,48.8,4840
+misto,5.66,34.0,híbrida,591.9,19.6,5,8.2,pivô central,82.7,3.41,0.12,7,parcial,não,Norte,75.2,4136
+arenoso,5.39,18.5,transgênica,1134.1,26.5,3,8.6,pivô central,173.0,3.03,3.1,6,total,sim,Nordeste,68.7,4908
+siltoso,4.84,22.7,crioula,745.2,27.9,2,9.9,sem irrigação,244.9,0.88,3.06,3,manual,sim,Norte,71.9,5422
+arenoso,5.01,21.4,crioula,1108.8,25.8,4,7.2,aspersão,232.1,4.57,1.72,8,total,não,Sudeste,92.9,4753
+arenoso,6.29,31.6,transgênica,783.4,21.8,8,6.6,sem irrigação,85.9,0.81,1.91,5,manual,não,Norte,43.7,3766
+siltoso,5.78,30.3,transgênica,731.8,23.2,9,7.8,pivô central,78.0,2.44,4.41,3,manual,não,Norte,92.7,3913
+arenoso,6.93,30.0,híbrida,1071.6,22.7,5,8.4,gotejamento,84.6,0.22,2.41,5,manual,não,Sudeste,98.3,4762
+argiloso,5.34,33.2,transgênica,617.1,23.1,5,8.2,pivô central,188.3,2.67,4.04,8,total,não,Sudeste,93.1,4590
+argiloso,6.83,31.1,híbrida,795.3,25.8,4,5.4,aspersão,62.6,1.78,3.19,8,manual,não,Sul,46.3,4340
+argiloso,6.87,17.4,crioula,1154.1,22.3,5,8.0,pivô central,177.7,3.94,3.29,3,parcial,não,Nordeste,85.8,5175
+misto,5.71,14.4,híbrida,524.9,29.0,7,6.3,aspersão,127.5,2.45,0.68,9,total,sim,Sudeste,63.1,3754
+misto,6.48,11.4,híbrida,1177.9,27.4,3,6.9,sem irrigação,176.7,2.19,2.32,5,parcial,sim,Norte,57.8,4688
+misto,6.4,25.2,crioula,840.1,23.1,1,6.9,sem irrigação,105.2,1.9,3.87,2,total,não,Centro-Oeste,12.4,4559
+misto,5.78,16.4,crioula,947.2,19.7,5,8.6,pivô central,67.1,4.33,1.25,2,manual,sim,Sudeste,95.6,4361
+misto,4.98,32.6,crioula,573.2,26.0,4,6.0,gotejamento,139.6,4.32,1.72,3,manual,não,Norte,83.6,4707
+arenoso,6.73,25.1,híbrida,774.0,19.9,8,8.5,gotejamento,142.1,0.21,3.93,3,total,não,Centro-Oeste,47.1,3945
+siltoso,5.0,31.5,híbrida,459.6,25.9,2,6.5,gotejamento,82.1,1.74,4.42,2,parcial,não,Norte,51.6,4343
+argiloso,4.67,28.8,transgênica,484.1,19.6,9,5.6,pivô central,147.4,2.1,0.55,4,parcial,sim,Nordeste,70.7,4345
+argiloso,6.16,31.8,transgênica,975.5,19.1,2,8.9,pivô central,64.7,2.14,2.64,4,parcial,não,Norte,79.3,4227
+argiloso,5.26,20.4,híbrida,552.8,27.1,1,6.7,sem irrigação,135.6,1.27,2.74,7,manual,sim,Nordeste,33.0,4435
+siltoso,6.14,30.0,crioula,749.8,24.8,6,7.3,gotejamento,163.4,4.52,1.98,2,total,sim,Norte,55.8,4333
+siltoso,6.92,19.8,híbrida,1136.4,27.3,8,9.0,gotejamento,222.6,2.31,3.05,2,total,não,Sudeste,53.6,4938
+siltoso,7.19,18.2,crioula,472.2,26.4,7,6.2,gotejamento,81.9,0.98,1.43,7,parcial,não,Sul,30.6,4178
+misto,4.71,23.0,crioula,542.1,28.9,2,7.6,sem irrigação,202.3,1.33,1.22,9,parcial,sim,Nordeste,83.0,5004
+misto,5.28,31.6,transgênica,700.4,29.2,2,6.6,pivô central,104.2,3.37,2.15,4,total,não,Sudeste,3.5,4435
+argiloso,4.64,27.3,transgênica,303.4,27.2,4,7.4,sem irrigação,248.6,4.64,4.3,9,parcial,não,Norte,80.7,4446
+misto,5.41,11.4,transgênica,500.7,21.9,1,7.1,sem irrigação,66.9,2.6,3.18,6,total,sim,Nordeste,49.2,4232
+misto,5.8,25.3,transgênica,930.7,28.4,3,5.4,aspersão,70.8,3.91,3.54,1,manual,não,Centro-Oeste,57.4,3855
+argiloso,6.32,19.6,crioula,357.7,19.2,6,6.3,pivô central,84.2,1.25,1.16,5,total,sim,Centro-Oeste,70.3,4131
+siltoso,7.88,24.4,crioula,1021.7,25.4,7,7.4,pivô central,209.7,2.8,0.96,4,parcial,sim,Sudeste,96.8,4275
+siltoso,6.6,21.5,crioula,1111.8,29.6,1,6.3,aspersão,147.8,2.49,4.91,3,manual,sim,Sul,51.7,4787
+argiloso,5.56,14.0,crioula,964.5,26.7,9,6.7,aspersão,67.7,2.07,4.79,2,total,não,Centro-Oeste,55.2,3649
+misto,5.71,21.0,transgênica,1097.6,24.2,3,9.3,pivô central,112.6,2.61,4.78,4,parcial,não,Sul,75.5,4924
+argiloso,4.84,21.0,crioula,697.8,27.1,0,9.6,pivô central,57.8,4.17,0.98,6,parcial,não,Nordeste,26.5,4456
+arenoso,6.78,33.3,transgênica,653.4,25.5,7,6.8,aspersão,203.7,0.67,1.09,2,total,não,Centro-Oeste,39.4,4717
+argiloso,5.45,11.7,transgênica,493.1,28.4,4,7.4,aspersão,158.7,0.17,2.56,9,parcial,não,Sul,18.9,4130
+misto,6.36,20.1,híbrida,894.0,28.7,5,5.2,gotejamento,111.7,2.37,2.31,9,manual,não,Sudeste,18.1,4208
+argiloso,4.98,27.4,transgênica,429.2,21.1,8,7.7,sem irrigação,215.2,1.7,3.54,9,total,não,Sul,84.1,4871
+siltoso,4.81,20.8,híbrida,809.2,22.5,1,7.3,gotejamento,124.3,3.5,4.48,2,total,sim,Nordeste,97.3,4057
+misto,6.57,22.6,transgênica,430.3,26.8,6,5.2,sem irrigação,205.3,3.85,4.63,3,parcial,sim,Sul,65.2,4233
+argiloso,7.18,18.3,híbrida,903.3,20.7,1,5.5,aspersão,88.2,0.76,0.64,5,total,não,Centro-Oeste,72.6,4499
+argiloso,5.49,13.3,transgênica,339.6,22.5,7,7.0,sem irrigação,183.4,1.34,0.06,3,parcial,não,Sudeste,54.4,4473
+argiloso,4.61,11.3,transgênica,903.6,21.6,4,9.3,gotejamento,101.0,2.83,2.52,7,parcial,sim,Sul,59.0,4258
+arenoso,7.68,29.1,híbrida,480.4,29.6,1,6.5,gotejamento,79.7,3.94,1.16,9,manual,sim,Sul,42.2,4391
+misto,7.96,27.8,crioula,870.7,23.6,4,6.3,sem irrigação,130.6,1.06,0.57,9,parcial,não,Nordeste,29.0,4230
+arenoso,6.88,29.9,híbrida,966.8,22.7,3,7.5,gotejamento,211.2,4.1,1.42,1,manual,não,Centro-Oeste,46.0,4939
+arenoso,4.68,19.6,transgênica,1105.2,24.6,4,9.3,gotejamento,70.1,0.53,4.96,7,manual,não,Centro-Oeste,85.2,4626
+argiloso,4.87,22.1,transgênica,887.2,28.2,4,8.4,aspersão,102.4,3.23,1.23,5,total,sim,Sudeste,54.8,4261
+argiloso,5.73,33.6,crioula,907.3,25.0,4,9.2,sem irrigação,169.4,3.76,3.42,5,parcial,não,Norte,89.7,4892
+misto,4.9,21.9,híbrida,759.3,27.1,2,6.4,pivô central,193.9,0.1,1.3,8,total,não,Sudeste,13.0,4699
+siltoso,7.98,14.2,híbrida,1193.2,29.4,3,9.7,aspersão,217.2,2.9,3.47,1,parcial,não,Nordeste,52.7,4780
+siltoso,6.15,28.9,crioula,688.6,28.7,1,6.9,pivô central,55.9,4.53,3.05,6,total,não,Sudeste,56.5,4407
+arenoso,7.97,30.9,híbrida,642.0,29.8,7,6.1,pivô central,178.9,1.3,0.56,5,total,sim,Norte,40.0,4520
+arenoso,5.7,25.1,crioula,979.6,22.4,6,5.4,pivô central,135.6,4.19,2.96,8,parcial,não,Sul,83.9,4287
+argiloso,5.09,10.0,crioula,471.6,19.3,4,9.5,sem irrigação,53.4,3.55,0.38,1,manual,não,Norte,35.2,4372
+arenoso,6.73,15.3,híbrida,1044.4,19.4,8,5.4,aspersão,208.2,1.41,2.22,6,total,não,Nordeste,29.7,4570
+misto,6.6,19.3,transgênica,743.6,21.4,1,8.6,aspersão,75.0,3.46,1.23,7,manual,sim,Centro-Oeste,34.9,3974
+misto,7.49,16.4,híbrida,653.8,19.7,1,7.6,pivô central,147.2,3.07,3.41,4,parcial,sim,Norte,44.2,4508
+siltoso,7.81,19.6,híbrida,715.2,23.3,1,5.4,aspersão,115.7,3.71,1.09,7,parcial,sim,Norte,74.4,4493
+siltoso,5.85,11.1,híbrida,1019.4,19.2,1,6.1,sem irrigação,92.8,0.85,3.22,7,total,não,Sudeste,84.4,4270
+siltoso,5.47,16.5,transgênica,735.2,24.2,2,7.7,gotejamento,140.6,1.94,3.2,3,total,não,Nordeste,15.6,4473
+argiloso,5.84,12.1,híbrida,527.8,20.2,6,8.6,aspersão,188.3,2.68,1.94,9,manual,sim,Norte,70.3,4772
+siltoso,7.93,29.7,crioula,756.9,19.2,0,8.4,sem irrigação,180.2,0.8,2.2,3,manual,não,Norte,78.7,5061
+siltoso,7.08,19.6,híbrida,1074.3,23.3,5,8.1,sem irrigação,140.9,1.18,4.76,6,total,sim,Nordeste,20.5,4958
+arenoso,6.23,17.4,crioula,848.6,25.1,4,5.3,gotejamento,119.4,0.96,4.33,7,manual,sim,Norte,69.3,4255
+arenoso,6.72,32.2,transgênica,1049.6,30.0,0,5.5,pivô central,118.4,1.3,1.69,7,parcial,sim,Nordeste,43.3,4164
+arenoso,6.07,34.8,crioula,308.2,29.5,6,9.8,pivô central,215.5,3.79,3.0,4,manual,não,Nordeste,75.5,4813
+arenoso,7.63,22.6,híbrida,631.0,19.6,6,6.5,aspersão,128.0,1.75,1.77,9,manual,sim,Norte,48.6,3934
+arenoso,5.28,20.9,crioula,738.8,22.8,9,8.3,sem irrigação,174.6,2.94,0.82,9,total,não,Norte,1.2,4599
+siltoso,6.95,28.8,crioula,1067.5,25.8,9,9.8,sem irrigação,115.4,4.96,0.84,5,manual,não,Norte,69.3,4763
+argiloso,7.27,23.8,híbrida,896.4,28.2,6,5.3,pivô central,105.5,0.5,2.79,9,parcial,sim,Norte,94.8,4460
+argiloso,5.56,14.4,transgênica,782.5,22.9,3,6.8,gotejamento,127.6,0.71,2.11,3,manual,sim,Norte,50.9,4106
+arenoso,5.68,10.7,híbrida,1028.1,24.4,8,9.9,aspersão,191.5,2.14,2.92,4,manual,não,Nordeste,57.8,4388
+argiloso,6.44,33.6,transgênica,771.6,20.9,8,7.0,sem irrigação,88.1,4.37,0.95,9,total,não,Sul,83.7,4386
+arenoso,7.14,22.2,transgênica,315.3,19.0,8,8.3,sem irrigação,117.1,3.57,3.64,2,total,não,Centro-Oeste,5.3,4778
+arenoso,7.79,32.0,híbrida,666.5,21.1,4,5.7,pivô central,170.1,4.08,1.33,6,manual,sim,Nordeste,63.7,4035
+misto,6.67,13.3,crioula,783.3,29.7,5,8.0,aspersão,94.1,1.64,3.95,9,parcial,não,Nordeste,35.5,4666
+argiloso,6.72,14.1,crioula,624.7,26.0,2,6.5,aspersão,195.8,2.09,4.94,6,total,não,Nordeste,19.2,4353
+arenoso,7.58,30.7,híbrida,750.1,26.0,4,8.5,gotejamento,152.2,3.67,1.34,5,total,sim,Sudeste,41.5,4795
+argiloso,5.68,30.7,transgênica,1163.3,25.9,2,7.8,aspersão,125.0,1.12,1.56,6,total,sim,Sul,48.6,4686
+arenoso,5.88,17.3,híbrida,357.2,18.2,3,6.4,sem irrigação,68.3,3.47,2.74,8,parcial,sim,Sudeste,59.1,3543
+argiloso,7.25,24.5,híbrida,582.0,19.6,0,5.7,aspersão,165.4,3.77,4.28,2,total,sim,Sul,58.9,4319
+argiloso,8.0,10.9,transgênica,1166.5,19.3,0,5.2,pivô central,103.6,3.02,0.13,1,parcial,não,Nordeste,32.3,4348
+arenoso,7.94,34.9,crioula,1108.2,23.0,2,8.9,gotejamento,220.4,0.77,0.1,1,total,sim,Sudeste,79.3,5153
+argiloso,6.02,14.4,transgênica,941.5,18.3,6,5.8,sem irrigação,65.2,4.13,1.31,7,total,sim,Sudeste,48.7,3823
+misto,5.49,15.3,crioula,831.2,23.4,4,7.8,sem irrigação,224.9,2.42,2.92,9,total,não,Nordeste,44.3,5006
+arenoso,6.15,27.1,crioula,533.6,27.7,7,6.2,aspersão,69.3,4.24,1.54,1,parcial,sim,Sudeste,70.9,4374
+argiloso,7.1,34.3,híbrida,1067.3,18.3,1,5.9,gotejamento,234.7,1.55,1.91,6,total,sim,Sul,97.2,4829
+misto,5.32,29.2,crioula,955.3,23.4,9,9.1,aspersão,130.5,1.86,1.85,5,parcial,sim,Norte,1.2,4720
+argiloso,6.05,23.3,híbrida,900.6,20.1,3,9.6,pivô central,179.3,1.66,0.94,3,parcial,sim,Nordeste,81.2,4871
+misto,5.65,17.6,transgênica,933.1,28.5,8,5.8,sem irrigação,67.4,0.28,4.42,4,manual,não,Centro-Oeste,70.2,3841
+misto,7.85,17.6,transgênica,824.0,23.7,0,6.2,pivô central,184.9,1.39,4.75,8,parcial,não,Norte,55.8,4218
+siltoso,6.53,30.5,crioula,330.0,23.8,8,9.9,sem irrigação,191.3,1.42,1.72,7,manual,não,Nordeste,99.6,5218
+arenoso,5.34,20.8,transgênica,801.8,19.5,2,9.9,sem irrigação,211.9,3.84,0.24,6,manual,não,Nordeste,83.3,4894
+arenoso,7.19,21.1,crioula,1084.4,29.4,6,5.3,gotejamento,69.3,0.11,0.34,2,manual,não,Norte,88.1,4024
+siltoso,7.67,34.2,crioula,643.7,26.7,6,5.8,pivô central,145.1,1.15,3.77,8,manual,não,Sul,74.8,4267
+argiloso,4.87,16.0,híbrida,641.1,28.3,1,8.4,gotejamento,174.5,2.54,3.75,2,total,sim,Sudeste,78.2,4758
+arenoso,6.18,14.9,híbrida,399.0,27.6,4,8.0,sem irrigação,167.2,0.92,3.12,3,total,não,Centro-Oeste,21.0,3867
+misto,5.09,26.5,crioula,1168.0,24.0,0,9.2,aspersão,164.1,2.39,0.31,9,total,não,Nordeste,26.1,5272
+siltoso,5.16,33.9,transgênica,1040.0,23.1,7,5.5,aspersão,226.2,3.38,4.26,9,total,sim,Nordeste,57.4,4264
+arenoso,7.36,13.1,crioula,601.7,21.5,6,6.6,pivô central,236.1,1.47,2.19,4,parcial,sim,Sudeste,71.6,4606
+misto,6.24,18.9,híbrida,623.3,18.1,5,9.3,sem irrigação,233.2,2.36,3.81,1,manual,sim,Nordeste,85.0,5551
+arenoso,7.53,23.9,crioula,890.4,28.0,8,9.3,pivô central,91.5,3.67,2.28,3,total,sim,Norte,51.4,4434
+misto,5.31,29.2,transgênica,589.6,21.3,3,5.2,pivô central,114.9,2.56,2.12,1,total,não,Centro-Oeste,99.9,4296
+misto,7.35,26.6,transgênica,704.7,29.1,1,8.1,gotejamento,207.6,4.87,2.71,3,total,sim,Nordeste,50.6,4895
+arenoso,7.98,28.6,transgênica,547.5,24.6,2,9.8,gotejamento,205.5,4.7,4.85,4,total,sim,Norte,70.3,5418
+misto,7.32,24.6,transgênica,389.8,21.5,2,10.0,pivô central,238.7,4.2,3.62,2,manual,não,Sul,65.3,5251
+siltoso,5.85,31.0,crioula,850.6,20.3,8,7.1,aspersão,84.4,4.74,2.43,2,manual,não,Norte,86.6,4155
+misto,5.57,30.6,transgênica,938.0,28.2,9,5.9,gotejamento,177.5,1.62,4.94,5,parcial,sim,Centro-Oeste,62.3,5086
+arenoso,5.47,22.1,transgênica,551.7,26.1,5,5.3,pivô central,175.1,0.97,3.08,1,total,sim,Norte,72.5,4885
+arenoso,5.61,20.2,crioula,364.5,28.7,6,6.6,gotejamento,149.2,4.94,1.74,5,total,não,Sudeste,96.5,4510
+siltoso,4.52,16.2,crioula,1158.7,21.7,9,8.4,pivô central,104.1,2.3,2.42,8,manual,sim,Centro-Oeste,60.4,4317
+misto,7.4,31.3,transgênica,607.5,20.9,1,7.4,sem irrigação,82.7,4.86,2.57,9,manual,sim,Norte,88.9,4678
+argiloso,6.51,19.0,híbrida,868.4,27.7,7,8.5,pivô central,87.6,2.85,3.74,9,total,não,Nordeste,55.8,3898
+arenoso,4.64,34.0,transgênica,676.4,22.5,8,5.2,pivô central,122.4,3.63,2.59,9,parcial,sim,Sudeste,5.0,4137
+siltoso,5.19,16.1,transgênica,609.1,28.7,7,5.2,pivô central,56.4,0.08,3.82,5,total,não,Nordeste,85.4,3251
+siltoso,7.63,28.0,transgênica,484.9,18.4,8,5.0,gotejamento,141.0,3.38,4.7,5,parcial,sim,Centro-Oeste,41.4,4128
+arenoso,7.2,18.3,transgênica,1145.8,29.3,0,8.2,aspersão,181.2,0.6,4.63,8,total,sim,Centro-Oeste,63.4,4687
+argiloso,6.62,30.5,crioula,352.2,19.6,4,8.0,pivô central,214.0,2.51,4.29,2,parcial,não,Norte,25.5,4713
+siltoso,7.31,17.4,transgênica,602.6,28.5,9,7.1,pivô central,54.3,3.26,3.44,2,total,não,Centro-Oeste,21.4,4241
+arenoso,4.89,24.1,crioula,815.8,24.6,4,9.8,pivô central,146.5,0.1,0.94,3,manual,não,Sul,57.1,4624
+misto,4.67,25.1,híbrida,435.6,23.1,5,6.7,pivô central,63.8,2.26,3.3,2,total,não,Norte,60.1,4355
+siltoso,7.24,23.2,híbrida,1199.0,20.0,2,9.9,sem irrigação,208.6,4.91,0.6,7,manual,sim,Sudeste,33.0,5093
+argiloso,5.17,19.1,híbrida,578.3,26.9,6,7.1,pivô central,113.3,3.56,0.88,5,parcial,não,Nordeste,50.6,3764
+siltoso,6.71,21.7,híbrida,1125.1,19.7,4,5.2,sem irrigação,85.9,4.64,1.68,1,total,não,Sudeste,37.9,3877
+misto,5.57,11.3,transgênica,549.0,29.9,9,8.5,aspersão,205.7,3.99,0.8,4,total,sim,Nordeste,39.6,4654
+misto,6.67,19.6,crioula,1178.3,21.2,1,9.7,gotejamento,190.1,3.3,3.05,2,manual,sim,Nordeste,81.3,5407
+siltoso,4.71,27.7,transgênica,1091.3,21.9,6,7.6,sem irrigação,244.1,2.67,3.35,8,manual,não,Sul,70.5,4713
+misto,7.05,28.8,transgênica,1183.3,27.6,4,7.7,aspersão,178.2,2.36,0.89,1,manual,não,Norte,69.1,5143
+siltoso,5.42,30.3,híbrida,412.0,24.4,4,6.2,pivô central,227.0,3.34,0.29,6,manual,sim,Sudeste,8.8,4369
+argiloso,7.94,27.0,crioula,361.0,22.2,0,7.4,gotejamento,181.5,1.91,2.58,1,parcial,não,Centro-Oeste,48.0,4867
+siltoso,7.06,28.0,transgênica,807.6,29.4,6,7.4,aspersão,122.0,1.75,0.83,8,total,sim,Centro-Oeste,13.5,4353
+misto,6.92,26.4,crioula,412.3,22.0,3,6.2,pivô central,154.5,1.47,2.62,9,manual,sim,Norte,6.9,4193
+arenoso,5.13,22.7,híbrida,623.5,19.9,6,8.8,pivô central,60.7,0.65,4.16,8,total,sim,Nordeste,61.4,4649
+arenoso,7.82,17.5,híbrida,472.0,21.0,1,6.4,aspersão,216.8,0.6,3.11,7,manual,sim,Sul,22.5,4594
+siltoso,6.91,26.2,transgênica,340.0,20.9,4,7.2,gotejamento,217.5,3.2,2.84,4,total,sim,Sudeste,55.1,5353
+arenoso,4.62,15.9,transgênica,1083.4,18.3,2,5.9,aspersão,223.2,3.64,4.56,9,total,não,Sudeste,11.8,4508
+argiloso,4.99,23.6,transgênica,1064.3,24.0,2,9.4,gotejamento,105.9,2.43,4.31,3,parcial,sim,Sul,88.9,4687
+misto,4.53,18.9,híbrida,1018.1,20.2,1,5.3,pivô central,110.6,3.94,3.17,5,total,não,Norte,52.9,4214
+arenoso,6.02,31.9,crioula,1151.3,24.1,7,5.5,aspersão,95.1,3.99,1.32,6,total,não,Sudeste,33.2,3446
+siltoso,6.94,24.1,crioula,581.2,29.5,2,5.7,sem irrigação,245.7,3.26,2.77,1,parcial,sim,Norte,16.0,5516
+misto,4.56,15.2,crioula,422.9,22.7,2,6.9,sem irrigação,140.2,4.37,4.96,2,total,sim,Norte,97.8,4482
+argiloso,7.41,18.6,híbrida,349.0,26.6,5,7.6,sem irrigação,164.0,4.1,3.71,5,parcial,sim,Centro-Oeste,60.2,4884
+arenoso,7.25,14.2,transgênica,454.7,22.4,7,5.2,pivô central,92.3,0.75,4.32,6,total,não,Nordeste,40.5,3828
+siltoso,5.32,20.9,crioula,426.1,27.5,6,6.1,aspersão,111.4,2.12,1.01,6,manual,sim,Nordeste,53.4,3999
+siltoso,4.77,23.3,híbrida,1059.9,18.8,2,6.1,sem irrigação,82.6,1.8,0.51,2,parcial,sim,Sul,14.2,4732
+siltoso,5.76,19.5,crioula,829.9,23.3,6,9.0,sem irrigação,234.2,0.18,1.95,7,parcial,sim,Nordeste,38.2,5573
+siltoso,6.1,21.3,híbrida,1168.3,27.8,2,6.2,gotejamento,220.6,2.99,3.38,3,manual,não,Sudeste,19.3,4571
+arenoso,6.28,16.7,transgênica,313.2,25.0,2,8.2,gotejamento,92.1,1.27,3.73,2,manual,sim,Norte,30.0,4290
+argiloso,4.57,34.4,crioula,805.3,24.1,8,5.1,aspersão,236.4,3.66,4.09,3,total,sim,Nordeste,70.6,5209
+argiloso,5.6,20.5,transgênica,341.6,23.4,7,8.4,gotejamento,187.2,0.64,2.99,8,manual,sim,Norte,61.6,4635
+siltoso,7.27,20.4,crioula,511.3,24.5,0,9.4,pivô central,152.8,1.98,0.83,6,parcial,sim,Norte,54.7,4898
+siltoso,4.76,17.2,transgênica,642.2,25.6,1,9.9,pivô central,178.5,1.9,1.69,2,total,não,Norte,79.5,4940
+misto,5.77,18.0,crioula,622.0,19.7,0,6.7,gotejamento,124.3,4.07,0.43,9,manual,não,Nordeste,5.4,4267
+siltoso,4.69,27.4,crioula,1109.4,22.2,9,6.6,pivô central,221.7,2.47,4.35,8,manual,não,Norte,54.0,4482
+arenoso,5.27,33.9,crioula,471.4,28.6,1,8.1,gotejamento,209.7,3.93,2.1,8,total,não,Norte,83.2,5033
+arenoso,4.89,15.2,híbrida,1179.6,18.5,1,9.5,pivô central,222.9,4.25,0.15,2,total,sim,Norte,60.6,5541
+siltoso,5.43,21.0,transgênica,1159.0,24.8,8,6.0,aspersão,184.0,0.66,3.56,7,parcial,sim,Centro-Oeste,11.9,4440
+argiloso,7.28,17.1,híbrida,445.8,23.7,2,7.2,pivô central,53.0,3.51,1.75,5,parcial,sim,Norte,67.7,4340
+arenoso,5.71,21.5,transgênica,739.9,19.7,2,6.6,sem irrigação,135.8,4.16,4.58,7,parcial,sim,Centro-Oeste,25.2,4931
+misto,4.76,15.7,transgênica,990.1,20.4,6,5.2,pivô central,69.4,1.97,2.51,8,parcial,não,Centro-Oeste,78.7,3648
+argiloso,7.28,31.8,crioula,641.3,28.5,9,7.2,aspersão,64.9,0.9,1.94,1,parcial,não,Sul,78.0,4127
+argiloso,5.3,12.6,crioula,736.8,23.5,1,8.9,sem irrigação,198.5,3.93,2.07,7,total,sim,Centro-Oeste,65.4,5577
+arenoso,7.25,32.7,crioula,375.0,22.3,4,8.2,pivô central,134.4,3.71,1.57,8,parcial,sim,Norte,42.9,4458
+arenoso,6.65,29.3,híbrida,329.1,28.3,4,7.5,aspersão,183.7,0.05,3.23,8,total,sim,Sudeste,29.4,5260
+misto,7.84,34.6,híbrida,391.3,21.0,7,7.0,aspersão,108.0,0.97,3.22,6,parcial,sim,Nordeste,89.3,4107
+siltoso,5.36,14.7,híbrida,585.2,20.3,4,7.8,gotejamento,118.2,1.79,1.33,6,total,sim,Sudeste,20.3,4624
+arenoso,6.87,34.9,transgênica,606.7,26.8,0,7.4,aspersão,165.6,4.13,1.1,1,parcial,sim,Nordeste,64.4,4714
+arenoso,5.5,24.9,crioula,928.2,19.3,2,7.0,sem irrigação,174.4,3.28,4.71,4,manual,não,Nordeste,53.5,4792
+siltoso,6.4,20.3,transgênica,872.9,24.7,4,8.5,sem irrigação,249.8,2.7,4.73,6,parcial,não,Sul,78.9,4621
+arenoso,5.67,16.4,transgênica,526.5,25.5,1,8.8,pivô central,246.3,2.73,3.02,3,manual,sim,Sul,9.1,5577
+argiloso,7.75,18.3,transgênica,637.1,28.1,2,8.6,pivô central,111.5,2.12,0.7,1,manual,não,Sul,86.1,4950
+argiloso,7.45,21.9,transgênica,889.0,19.6,0,5.2,sem irrigação,81.6,4.53,4.99,8,total,sim,Sudeste,58.0,3929
+argiloso,7.83,22.3,transgênica,774.1,23.7,3,5.3,pivô central,110.9,4.94,1.43,5,total,não,Sul,17.9,4120
+argiloso,7.4,20.0,híbrida,1015.1,24.1,8,6.6,gotejamento,208.7,0.53,3.23,7,manual,sim,Norte,94.7,4307
+arenoso,7.9,27.5,transgênica,708.9,19.1,3,9.3,gotejamento,147.0,4.02,2.04,3,total,não,Sudeste,6.3,4504
+siltoso,5.39,18.6,crioula,525.4,29.3,2,5.9,aspersão,212.5,4.2,2.39,7,manual,não,Sul,38.8,4527
+argiloso,6.43,21.9,transgênica,464.8,21.3,0,9.1,aspersão,196.5,3.35,0.43,9,manual,sim,Norte,68.3,5268
+siltoso,7.5,12.3,transgênica,372.3,19.6,1,8.2,aspersão,177.7,3.01,1.76,3,total,não,Nordeste,93.7,4475
+misto,4.91,12.8,crioula,672.3,25.3,3,7.0,pivô central,140.6,3.43,2.56,4,manual,não,Nordeste,82.2,4400
+argiloso,4.7,11.0,híbrida,698.3,27.6,3,5.4,aspersão,151.9,2.01,2.98,9,parcial,sim,Nordeste,36.9,3915
+arenoso,4.75,32.9,crioula,783.2,19.7,2,7.8,aspersão,58.2,2.27,3.72,2,manual,não,Norte,27.6,4018
+arenoso,4.98,22.6,crioula,578.6,25.0,5,7.3,sem irrigação,173.7,4.13,3.8,8,manual,não,Sudeste,49.2,4532
+arenoso,4.97,22.9,híbrida,603.4,29.7,3,5.5,gotejamento,137.2,2.01,3.08,5,total,sim,Norte,47.8,4144
+siltoso,7.59,27.7,transgênica,1174.0,24.9,8,7.6,sem irrigação,164.9,2.67,2.04,4,manual,sim,Nordeste,57.2,4399
+arenoso,6.36,16.6,transgênica,740.3,28.3,1,8.1,gotejamento,108.0,4.31,1.84,1,manual,sim,Nordeste,46.6,4848
+argiloso,5.9,13.8,transgênica,1178.3,28.4,4,9.9,gotejamento,160.3,2.24,2.86,4,manual,não,Centro-Oeste,70.8,3790
+argiloso,6.59,21.6,crioula,358.5,20.4,3,9.1,aspersão,71.4,1.69,2.61,1,parcial,sim,Norte,18.1,3836
+argiloso,7.33,16.5,híbrida,1188.0,27.3,8,7.1,sem irrigação,247.1,3.46,3.83,5,total,não,Sudeste,43.6,4826
+argiloso,4.92,16.6,transgênica,1194.8,22.0,7,8.8,gotejamento,236.2,2.45,3.14,4,total,sim,Centro-Oeste,69.4,4726
+argiloso,6.5,14.9,crioula,1054.7,29.9,1,8.1,aspersão,80.9,1.02,0.39,7,total,não,Norte,24.4,4306
+argiloso,7.56,34.1,transgênica,491.5,21.5,2,9.4,gotejamento,80.5,0.7,3.36,3,manual,sim,Centro-Oeste,43.1,4467
+siltoso,6.12,12.2,híbrida,351.8,22.7,6,5.2,gotejamento,79.1,1.15,4.09,1,manual,não,Centro-Oeste,67.8,3379
+misto,5.4,18.5,crioula,871.7,28.3,8,8.9,gotejamento,246.3,3.94,1.26,6,parcial,sim,Sul,45.3,4621
+siltoso,5.53,29.4,crioula,609.5,24.0,0,9.4,aspersão,241.0,4.71,0.01,2,parcial,não,Centro-Oeste,13.8,5293
+misto,6.43,25.8,híbrida,954.5,20.2,1,5.6,sem irrigação,175.4,3.04,0.57,9,parcial,não,Sul,73.3,4445
+arenoso,6.69,30.2,transgênica,936.5,22.0,6,8.7,pivô central,184.7,0.93,0.25,8,manual,sim,Nordeste,61.9,4485
+misto,7.31,22.8,transgênica,1024.2,20.1,6,9.4,sem irrigação,94.7,1.54,0.61,8,parcial,não,Centro-Oeste,29.6,4193
+arenoso,5.82,28.1,transgênica,1028.6,27.8,2,8.8,pivô central,182.8,2.35,1.14,1,manual,não,Nordeste,53.6,4664
+argiloso,6.45,20.8,híbrida,692.4,27.2,8,9.6,pivô central,53.8,2.63,1.13,3,parcial,não,Nordeste,68.5,4308
+argiloso,6.97,31.9,transgênica,973.9,20.7,6,7.3,sem irrigação,109.0,2.93,0.41,4,manual,sim,Norte,84.0,3949
+arenoso,4.85,25.9,híbrida,514.0,29.4,9,9.4,gotejamento,120.4,0.88,3.36,4,manual,sim,Centro-Oeste,43.3,4271
+argiloso,7.29,12.7,crioula,533.5,20.9,4,5.4,pivô central,109.7,3.44,2.28,8,total,sim,Centro-Oeste,19.1,4503
+misto,6.58,12.1,crioula,668.2,18.7,4,9.7,sem irrigação,102.9,1.28,4.46,6,manual,sim,Sudeste,74.1,4354
+misto,6.95,16.5,transgênica,1088.3,26.8,0,7.7,pivô central,94.5,4.14,3.46,1,manual,não,Centro-Oeste,18.5,4206
+arenoso,7.05,14.3,crioula,1049.6,21.2,0,9.2,gotejamento,194.3,4.4,0.9,1,parcial,não,Nordeste,66.1,4433
+siltoso,6.6,18.5,híbrida,1139.7,19.6,8,7.1,aspersão,224.3,2.09,1.42,1,manual,sim,Sudeste,58.7,5070
+argiloso,6.95,25.8,híbrida,419.3,28.6,1,7.9,aspersão,54.1,2.78,0.19,4,manual,não,Sul,43.2,4429
+argiloso,4.55,12.6,híbrida,1053.4,22.5,3,5.0,sem irrigação,123.7,4.12,0.11,3,parcial,não,Centro-Oeste,76.3,4096
+misto,5.92,16.7,crioula,540.1,22.6,0,8.6,gotejamento,224.1,3.44,1.7,1,total,não,Nordeste,22.6,5462
+siltoso,6.39,25.9,híbrida,640.0,25.4,2,7.8,aspersão,107.8,2.26,1.83,8,parcial,sim,Sudeste,20.4,4599
+misto,6.15,24.4,híbrida,957.7,25.8,3,9.4,pivô central,144.1,0.82,3.45,7,parcial,sim,Centro-Oeste,30.4,4483
+argiloso,4.86,34.4,híbrida,453.2,18.2,1,8.7,sem irrigação,112.0,1.06,4.79,8,manual,não,Nordeste,85.7,4760
+siltoso,6.04,29.2,crioula,716.0,22.5,8,5.2,sem irrigação,137.0,1.9,1.82,1,parcial,sim,Nordeste,34.9,4183
+argiloso,6.61,22.7,híbrida,425.1,26.6,1,6.1,sem irrigação,104.2,0.86,1.87,9,parcial,sim,Nordeste,51.8,4565
+argiloso,6.67,16.9,transgênica,368.5,26.8,5,8.7,pivô central,54.5,2.06,4.21,5,parcial,sim,Nordeste,16.6,3802
+siltoso,6.32,11.0,híbrida,351.1,25.7,6,8.5,gotejamento,150.2,2.14,1.99,2,total,não,Sul,22.1,5146
+misto,7.11,22.3,crioula,998.1,26.4,6,9.3,gotejamento,171.4,4.72,1.02,1,total,não,Norte,7.0,4615
+argiloso,7.43,29.8,crioula,599.0,27.9,4,9.7,gotejamento,220.9,0.97,2.09,1,parcial,não,Sudeste,85.1,5132
+siltoso,6.58,33.0,crioula,953.8,26.3,6,8.1,gotejamento,244.6,2.76,4.83,9,manual,não,Norte,60.7,5440
+argiloso,4.91,31.1,transgênica,552.3,24.0,8,8.1,pivô central,175.1,3.23,3.4,5,manual,sim,Centro-Oeste,28.5,4552
+siltoso,7.2,20.2,crioula,418.5,21.5,9,5.7,aspersão,161.8,0.22,0.53,7,parcial,não,Nordeste,47.4,4177
+arenoso,6.38,16.7,crioula,387.8,27.2,1,5.3,pivô central,178.8,0.64,1.22,9,total,sim,Centro-Oeste,12.3,4252
+misto,7.19,25.9,híbrida,667.7,22.0,1,6.5,pivô central,52.6,2.86,3.55,5,parcial,sim,Sul,33.4,4030
+arenoso,6.06,31.6,crioula,1119.1,18.8,7,8.2,pivô central,55.5,3.79,3.66,4,total,sim,Sudeste,64.9,4304
+siltoso,5.41,29.7,transgênica,419.4,21.7,2,6.3,sem irrigação,212.8,3.07,1.7,9,total,não,Sudeste,80.0,4969
+argiloso,5.79,10.6,híbrida,1062.1,29.8,9,7.2,gotejamento,243.6,0.13,0.38,4,manual,sim,Nordeste,42.8,4350
+siltoso,5.73,28.8,híbrida,423.4,23.3,7,9.9,pivô central,73.9,1.59,4.06,5,total,não,Centro-Oeste,82.5,4172
+siltoso,4.99,33.1,transgênica,1063.2,20.9,1,8.2,pivô central,98.8,0.54,3.86,9,total,sim,Sul,61.2,4757
+argiloso,5.64,26.5,transgênica,381.3,29.6,5,8.7,gotejamento,125.9,4.01,4.16,7,parcial,não,Centro-Oeste,77.1,4717
+argiloso,5.17,18.4,crioula,1136.3,27.3,1,8.8,pivô central,162.5,0.72,1.87,2,total,sim,Centro-Oeste,8.2,4885
+misto,5.27,13.1,crioula,952.9,22.7,3,6.1,gotejamento,208.3,4.87,3.34,1,parcial,sim,Sudeste,44.7,4592
+misto,7.35,14.0,híbrida,970.3,27.7,8,8.5,gotejamento,122.7,0.11,1.9,8,manual,sim,Sul,73.5,4544
+argiloso,4.65,19.4,transgênica,1081.4,26.9,8,10.0,gotejamento,241.8,1.58,3.04,3,total,sim,Norte,49.0,4725
+argiloso,7.39,17.8,híbrida,1112.1,23.2,1,10.0,aspersão,59.2,4.31,2.67,9,parcial,sim,Centro-Oeste,60.6,4639
+arenoso,6.75,15.3,transgênica,712.1,19.9,9,5.5,gotejamento,144.7,1.89,1.58,4,manual,sim,Norte,68.6,3982
+arenoso,6.35,29.5,híbrida,1080.5,25.0,8,6.5,gotejamento,167.8,4.4,3.04,7,parcial,não,Sudeste,9.6,4416
+misto,6.66,30.9,híbrida,794.4,20.3,2,7.5,sem irrigação,107.6,4.25,3.33,1,total,não,Sudeste,79.4,4842
+misto,5.97,21.0,híbrida,874.2,22.1,8,10.0,aspersão,184.7,1.9,1.16,7,parcial,sim,Nordeste,49.3,4713
+arenoso,7.47,23.5,crioula,1030.7,27.3,4,6.6,pivô central,120.6,4.46,4.75,1,manual,não,Norte,53.6,4260
+arenoso,5.94,24.3,transgênica,544.1,22.7,1,9.2,gotejamento,135.7,3.21,0.41,1,manual,sim,Sudeste,31.8,4481
+argiloso,7.22,27.9,transgênica,417.8,27.4,3,5.5,gotejamento,83.1,2.36,2.29,7,manual,sim,Norte,52.0,3938
+argiloso,7.34,34.6,transgênica,353.7,29.8,6,9.2,pivô central,107.8,0.03,1.74,7,total,sim,Sudeste,71.6,4242
+argiloso,5.68,20.2,híbrida,741.9,21.5,3,8.7,aspersão,222.5,1.0,4.14,6,total,sim,Sudeste,98.4,5421
+argiloso,6.9,11.3,crioula,1077.9,18.2,1,7.4,pivô central,147.6,2.82,2.71,7,manual,não,Nordeste,83.9,4552
+argiloso,7.53,17.8,crioula,1006.0,22.5,0,8.8,gotejamento,200.8,1.02,4.21,4,parcial,não,Centro-Oeste,38.7,5140
+argiloso,5.68,16.1,crioula,400.5,18.4,6,9.7,sem irrigação,233.0,4.6,1.96,1,manual,sim,Nordeste,88.3,5160
+arenoso,4.53,19.1,crioula,740.7,20.4,2,7.0,pivô central,210.4,4.14,2.1,9,parcial,não,Centro-Oeste,58.8,4937
+arenoso,7.28,19.2,crioula,1170.8,20.4,7,8.9,gotejamento,235.1,3.18,3.5,8,parcial,não,Norte,98.1,4688
+argiloso,5.5,18.6,crioula,410.7,19.2,5,7.7,aspersão,86.6,0.54,0.74,1,total,sim,Centro-Oeste,3.5,4091
+siltoso,7.05,11.9,híbrida,1144.4,19.9,4,6.8,aspersão,58.8,2.37,0.36,8,manual,sim,Sudeste,31.0,3680
+argiloso,4.99,15.3,transgênica,420.0,24.4,4,9.7,aspersão,186.0,4.66,1.16,8,total,não,Sul,18.6,5616
+misto,6.85,19.8,transgênica,584.3,29.8,5,7.2,gotejamento,95.3,4.12,0.42,4,parcial,sim,Centro-Oeste,52.7,3716
+siltoso,6.44,21.5,transgênica,718.3,19.8,9,6.6,aspersão,148.2,4.78,4.61,7,parcial,sim,Norte,92.1,4184
+misto,6.67,34.9,transgênica,733.8,29.9,3,9.3,pivô central,234.8,2.99,1.15,2,parcial,sim,Sul,93.9,5334
+arenoso,4.63,14.3,híbrida,395.1,27.9,8,8.1,sem irrigação,201.5,4.79,4.79,7,manual,sim,Centro-Oeste,68.0,4254
+argiloso,7.07,23.9,híbrida,636.8,24.9,8,6.9,sem irrigação,196.9,4.8,0.07,1,total,sim,Norte,50.0,4954
+siltoso,6.32,33.9,transgênica,352.5,18.0,4,5.5,pivô central,248.5,4.95,4.78,5,parcial,sim,Sul,80.6,5234
+arenoso,6.24,30.5,híbrida,791.1,20.5,3,8.4,aspersão,228.7,4.14,1.59,2,parcial,não,Sudeste,54.2,5175
+siltoso,6.74,29.7,transgênica,334.0,29.6,9,8.4,gotejamento,133.1,0.59,0.15,6,total,não,Sudeste,64.7,4399
+siltoso,6.21,19.3,híbrida,1065.1,26.2,8,5.8,sem irrigação,54.0,3.35,4.84,7,manual,não,Sudeste,80.5,3026
+arenoso,6.79,35.0,crioula,898.4,28.5,5,7.2,pivô central,135.9,4.76,1.18,6,total,não,Nordeste,8.5,4593
+misto,5.57,32.1,transgênica,1097.5,18.9,7,8.3,pivô central,242.2,0.93,1.59,9,total,não,Nordeste,66.9,4616
+arenoso,5.39,11.3,transgênica,878.9,26.3,2,7.1,sem irrigação,99.1,1.04,1.51,9,parcial,sim,Nordeste,75.4,4536
+siltoso,7.78,29.3,transgênica,510.0,18.1,1,9.7,gotejamento,206.1,3.49,3.97,1,manual,não,Centro-Oeste,8.2,5133
+argiloso,6.29,13.4,crioula,804.2,29.4,3,9.4,pivô central,222.8,1.85,2.39,6,parcial,sim,Sudeste,77.5,4570
+misto,6.6,10.5,híbrida,952.3,22.3,7,8.0,pivô central,72.3,1.65,2.02,1,parcial,não,Nordeste,38.2,3155
+argiloso,6.68,22.2,transgênica,1115.1,23.7,3,6.6,aspersão,243.5,2.11,0.21,4,total,não,Norte,53.0,4861
+siltoso,5.28,22.1,crioula,655.9,21.9,1,8.9,pivô central,56.9,4.4,1.49,6,manual,não,Norte,45.9,3789
+arenoso,6.15,13.4,crioula,379.8,29.1,9,7.8,pivô central,120.1,1.15,0.8,5,manual,não,Sudeste,4.6,3905
+siltoso,5.42,15.2,crioula,638.1,19.6,0,9.5,gotejamento,183.0,0.36,2.28,9,parcial,não,Nordeste,88.0,4760
+siltoso,7.44,16.5,híbrida,1148.5,26.6,0,5.5,aspersão,125.1,3.48,4.63,8,total,sim,Nordeste,14.1,4277
+argiloso,6.55,12.7,transgênica,433.7,23.5,0,6.9,aspersão,94.7,0.29,4.66,9,total,não,Centro-Oeste,5.2,3844
+siltoso,6.19,11.6,crioula,588.6,20.3,8,8.0,gotejamento,141.5,4.24,2.03,9,total,não,Norte,18.4,3719
+misto,7.77,32.6,transgênica,623.1,28.6,1,8.3,pivô central,236.2,4.56,0.16,4,manual,não,Sudeste,44.3,5154
+misto,4.92,25.2,crioula,597.3,28.3,6,6.1,gotejamento,146.6,0.92,2.24,8,manual,não,Sul,39.6,4250
+siltoso,5.18,33.5,transgênica,686.7,22.9,8,9.1,gotejamento,249.8,1.25,3.04,8,manual,sim,Sul,54.4,5170
+argiloso,7.38,17.4,híbrida,405.6,29.4,9,5.6,pivô central,139.4,2.13,3.83,1,total,sim,Norte,56.1,3573
+arenoso,6.66,28.4,transgênica,900.3,28.7,8,6.7,gotejamento,120.4,0.23,3.54,7,total,não,Nordeste,28.1,4679
+misto,6.39,25.2,híbrida,342.8,22.8,7,5.6,gotejamento,134.2,4.25,4.01,8,manual,não,Norte,61.2,3874
+arenoso,7.01,28.0,híbrida,493.3,22.1,8,9.0,aspersão,78.6,2.37,2.65,7,manual,sim,Centro-Oeste,92.0,4105
+misto,6.94,13.8,híbrida,665.5,20.7,8,8.2,gotejamento,241.0,2.78,2.54,3,manual,não,Norte,91.7,4273
+argiloso,6.11,10.6,híbrida,821.8,23.7,3,6.3,pivô central,205.9,2.06,3.8,6,parcial,sim,Norte,39.1,4921
+misto,7.02,14.3,transgênica,896.7,18.7,4,9.8,sem irrigação,138.7,2.91,0.1,3,parcial,sim,Sudeste,87.0,4573
+misto,4.91,10.4,transgênica,508.1,27.6,6,6.7,sem irrigação,106.3,2.07,0.45,3,total,não,Centro-Oeste,30.2,4015
+siltoso,6.04,29.5,crioula,480.5,24.0,6,9.0,aspersão,136.3,1.72,2.78,4,total,sim,Nordeste,23.3,4566
+argiloso,6.8,18.4,transgênica,1106.9,22.7,2,7.3,aspersão,248.0,0.85,1.83,8,total,não,Nordeste,59.1,5072
+misto,4.94,28.2,transgênica,791.9,25.9,9,9.2,pivô central,145.4,2.98,2.72,2,manual,não,Norte,42.7,3997
+siltoso,7.01,26.6,crioula,373.6,23.0,9,9.3,gotejamento,89.2,2.36,2.64,4,manual,sim,Sudeste,85.9,3939
+misto,5.55,31.0,crioula,1168.1,23.1,0,7.7,pivô central,128.9,4.89,1.94,9,manual,não,Nordeste,69.6,4244
+misto,6.21,19.4,transgênica,870.2,24.9,7,5.5,sem irrigação,233.8,2.6,0.07,1,manual,sim,Nordeste,99.9,4576
+argiloso,6.96,10.9,crioula,811.5,24.6,1,9.7,aspersão,185.6,0.36,4.54,3,parcial,não,Norte,37.7,5517
+arenoso,6.0,15.3,transgênica,447.1,21.6,6,9.8,sem irrigação,100.1,4.55,2.4,9,manual,sim,Centro-Oeste,26.6,4501
+argiloso,5.56,14.2,transgênica,1048.8,21.0,3,7.0,sem irrigação,67.1,2.67,0.2,9,parcial,não,Sul,5.1,4447
+misto,6.99,14.5,crioula,635.3,29.9,3,8.3,aspersão,94.0,2.83,4.76,2,parcial,sim,Sudeste,23.6,4141
+argiloso,6.53,19.9,transgênica,319.6,20.7,1,6.7,pivô central,247.1,0.76,2.96,9,manual,não,Sudeste,91.0,5477
+argiloso,7.92,28.5,híbrida,683.2,21.3,1,6.4,aspersão,113.9,2.8,2.0,2,total,sim,Norte,96.7,4300
+misto,7.41,20.5,transgênica,645.0,21.0,1,7.8,sem irrigação,146.8,4.36,0.63,8,manual,sim,Sudeste,88.9,4663
+argiloso,7.08,20.3,transgênica,357.9,27.2,5,9.6,pivô central,138.8,4.31,2.04,1,total,sim,Sudeste,99.5,4627
+siltoso,4.77,21.0,híbrida,816.4,25.7,6,9.4,pivô central,106.5,4.23,2.23,5,manual,não,Sul,86.5,4392
+misto,7.25,20.0,transgênica,689.4,25.5,8,8.7,aspersão,235.4,4.26,2.72,5,manual,sim,Centro-Oeste,89.2,5026
+misto,7.92,11.3,híbrida,673.3,22.7,8,6.5,aspersão,73.8,4.37,1.96,7,parcial,não,Norte,18.9,3430
+siltoso,5.9,25.8,crioula,874.4,26.7,3,7.0,gotejamento,226.4,4.91,2.33,7,parcial,não,Sudeste,16.8,4699
+siltoso,6.21,17.2,híbrida,1026.4,25.0,2,8.1,pivô central,70.9,3.12,0.4,5,manual,não,Sul,44.1,4211
+misto,5.97,13.8,transgênica,384.5,24.3,8,5.6,sem irrigação,115.6,2.04,3.44,1,parcial,sim,Sudeste,24.4,3853
+siltoso,5.11,27.6,híbrida,679.7,19.3,0,9.2,aspersão,223.0,4.01,1.6,8,parcial,sim,Sudeste,76.0,5540
+siltoso,5.69,30.9,híbrida,523.7,24.3,0,5.6,gotejamento,177.0,3.18,4.22,6,manual,sim,Sudeste,30.1,4386
+misto,7.93,17.5,híbrida,1185.5,18.2,8,9.9,pivô central,102.1,3.11,2.09,1,parcial,não,Norte,73.0,4131
+misto,7.79,35.0,híbrida,518.1,18.0,0,7.3,aspersão,187.1,4.25,3.07,3,parcial,sim,Sul,48.0,5309
+siltoso,7.25,16.3,crioula,517.8,20.7,0,8.8,aspersão,129.8,1.53,3.45,9,manual,não,Sudeste,59.5,5166
+argiloso,7.85,14.4,transgênica,669.8,20.3,0,9.7,pivô central,244.4,4.27,3.73,4,parcial,sim,Sul,62.0,5279
+siltoso,5.78,32.2,crioula,443.4,21.5,9,8.7,gotejamento,236.4,2.51,1.9,9,total,não,Sul,83.8,5026
+argiloso,6.81,18.6,transgênica,1148.1,23.0,3,9.7,gotejamento,195.4,0.6,3.65,5,manual,sim,Sul,52.2,4472
+argiloso,5.6,10.6,crioula,861.1,26.1,7,9.6,aspersão,248.6,0.48,1.59,3,total,sim,Sudeste,38.5,4603
+siltoso,6.74,29.1,crioula,1074.0,22.5,0,9.4,sem irrigação,222.9,1.1,0.49,2,manual,não,Norte,23.4,5181
+misto,4.95,34.4,híbrida,972.4,18.2,5,9.8,pivô central,239.3,0.41,4.19,6,total,sim,Sudeste,8.8,4994
+arenoso,5.57,23.4,crioula,964.3,26.7,4,7.7,aspersão,97.4,1.64,4.21,1,manual,não,Nordeste,24.9,4232
+argiloso,6.23,11.5,transgênica,989.7,27.2,0,6.5,sem irrigação,227.4,1.3,0.58,1,parcial,não,Centro-Oeste,18.3,4976
+arenoso,7.34,12.4,híbrida,766.5,28.9,2,8.7,aspersão,223.6,0.68,3.71,8,manual,sim,Norte,76.8,5459
+misto,7.46,30.5,híbrida,736.1,19.9,9,6.8,pivô central,121.8,0.12,2.04,3,manual,não,Centro-Oeste,22.6,4436
+argiloso,6.9,12.8,transgênica,1026.3,28.5,5,7.3,gotejamento,232.9,2.71,2.78,7,parcial,não,Sul,75.3,4958
+arenoso,7.29,28.4,híbrida,920.0,18.8,7,6.2,pivô central,90.2,3.6,3.07,9,total,não,Sul,38.6,4181
+siltoso,7.59,23.1,transgênica,536.8,29.2,0,9.1,gotejamento,235.1,4.33,3.03,5,parcial,não,Norte,59.5,5071
+siltoso,7.54,23.8,transgênica,796.5,28.5,6,9.4,sem irrigação,188.0,4.78,0.68,8,manual,sim,Sul,75.8,4565
+siltoso,7.48,32.0,híbrida,1019.8,19.4,4,7.8,pivô central,204.2,4.66,3.06,9,manual,não,Sudeste,85.8,4674
+arenoso,5.61,23.8,transgênica,549.7,26.3,8,6.7,gotejamento,181.2,1.4,1.32,8,manual,sim,Sudeste,66.7,4578
+arenoso,7.14,10.8,transgênica,551.8,26.5,8,6.6,gotejamento,141.3,1.43,1.68,4,manual,não,Nordeste,84.1,4451
+misto,7.55,14.5,híbrida,361.0,27.2,7,9.3,aspersão,183.1,4.07,0.06,9,total,não,Sudeste,55.7,4643
+misto,5.62,28.8,transgênica,443.3,25.3,0,9.3,aspersão,139.8,2.47,2.83,3,manual,não,Norte,45.4,5037
+argiloso,7.83,29.9,híbrida,1006.4,26.4,0,5.2,pivô central,171.5,3.03,2.22,6,manual,não,Nordeste,99.8,5057
+siltoso,5.96,22.1,híbrida,679.6,22.2,7,9.4,sem irrigação,217.1,0.85,1.37,2,parcial,não,Centro-Oeste,45.4,5259
+argiloso,6.84,15.3,híbrida,388.0,27.0,1,6.4,pivô central,195.2,4.18,1.12,8,parcial,sim,Norte,1.2,4713
+argiloso,6.44,28.5,transgênica,622.4,27.1,4,5.4,gotejamento,146.2,0.22,1.0,2,total,sim,Norte,22.8,3995
+arenoso,7.21,31.6,crioula,417.1,24.4,4,6.0,pivô central,141.3,2.88,4.76,5,total,sim,Sul,52.8,4054
+misto,4.63,19.4,crioula,540.1,18.5,0,6.4,aspersão,129.5,2.55,3.98,7,parcial,sim,Centro-Oeste,37.2,4578
+siltoso,4.79,34.7,transgênica,695.3,24.6,0,9.1,pivô central,82.2,3.01,3.84,2,parcial,sim,Sul,11.5,5028
+misto,7.12,28.6,transgênica,887.4,18.7,4,6.3,sem irrigação,202.4,3.19,0.46,6,total,sim,Nordeste,38.1,5247
+argiloso,4.98,22.3,crioula,902.6,20.0,0,7.0,aspersão,181.0,0.02,0.74,7,total,não,Nordeste,40.2,4807
+arenoso,4.86,15.9,crioula,907.4,25.1,3,9.4,gotejamento,134.4,1.83,0.43,9,total,não,Sudeste,30.6,4900
+siltoso,7.7,31.9,híbrida,1042.6,19.9,7,9.5,aspersão,83.5,1.98,1.11,5,total,sim,Nordeste,86.3,3922
+siltoso,4.87,20.9,transgênica,538.8,20.0,0,7.8,sem irrigação,191.9,0.72,3.24,5,total,não,Norte,26.7,4752
+argiloso,5.01,24.9,híbrida,1023.7,21.3,2,6.7,sem irrigação,67.1,0.33,4.51,3,parcial,sim,Sul,9.7,4029
+argiloso,4.51,23.7,híbrida,512.3,25.2,8,7.3,sem irrigação,151.5,4.66,3.92,5,manual,sim,Norte,12.3,4229
+arenoso,6.28,16.1,híbrida,358.9,19.9,8,8.1,sem irrigação,70.7,3.06,0.46,2,parcial,não,Norte,9.1,4332
+siltoso,4.59,25.5,híbrida,819.2,20.5,8,5.2,sem irrigação,91.9,1.2,1.07,5,total,não,Sudeste,4.5,3472
+siltoso,4.61,28.9,híbrida,980.0,20.4,6,8.7,gotejamento,176.0,3.21,0.19,8,manual,não,Sul,8.1,5094
+siltoso,5.29,21.3,híbrida,1030.9,18.6,8,8.8,gotejamento,237.4,0.53,4.04,3,manual,não,Sudeste,54.7,4952
+misto,4.77,20.5,transgênica,1039.1,28.1,5,5.5,aspersão,237.0,3.28,3.64,3,manual,não,Sul,23.1,4788
+arenoso,7.5,26.0,crioula,946.4,27.7,9,5.4,gotejamento,167.5,4.48,4.68,3,parcial,não,Norte,46.9,4380
+arenoso,6.2,12.7,híbrida,668.6,25.3,8,9.5,sem irrigação,118.6,0.06,1.79,1,total,sim,Sul,18.7,4462
+misto,6.95,21.7,híbrida,640.5,22.2,9,6.3,sem irrigação,141.1,4.36,2.3,5,total,não,Norte,92.6,3394
+misto,7.89,16.1,híbrida,796.0,27.7,3,9.3,pivô central,178.2,3.28,3.7,2,parcial,sim,Sudeste,71.7,4899
+arenoso,6.44,12.2,crioula,593.2,24.2,1,5.4,gotejamento,168.7,4.94,3.13,7,total,não,Sul,57.9,4963
+misto,7.86,26.0,crioula,780.6,22.3,9,6.2,gotejamento,140.4,2.51,3.52,6,manual,não,Norte,32.8,4266
+siltoso,6.46,31.0,transgênica,1060.0,28.9,9,5.6,gotejamento,249.0,4.75,1.99,2,manual,não,Sul,44.6,4636
+siltoso,5.65,15.0,transgênica,492.7,24.8,0,9.8,gotejamento,230.0,4.08,0.18,1,total,sim,Sul,88.0,5659
+misto,4.81,27.3,crioula,802.3,25.0,7,9.7,aspersão,168.0,0.38,3.28,7,parcial,sim,Nordeste,78.1,4362
+argiloso,4.63,31.8,crioula,851.6,18.3,7,6.4,gotejamento,236.2,3.43,3.81,4,parcial,sim,Norte,99.3,4739
+siltoso,5.89,21.1,híbrida,1081.4,22.2,5,9.4,sem irrigação,119.8,3.81,0.57,5,total,não,Nordeste,89.9,4204
+arenoso,6.31,31.3,crioula,1083.7,29.2,1,7.6,pivô central,143.1,2.32,3.48,7,manual,não,Norte,58.0,5233
+siltoso,6.68,22.6,transgênica,854.3,27.0,4,7.0,gotejamento,136.1,4.74,0.93,4,parcial,não,Sudeste,54.9,4301
+misto,5.33,24.4,híbrida,407.5,29.9,1,8.4,aspersão,52.2,1.11,0.48,1,total,não,Norte,18.7,4679
+argiloso,7.85,30.5,crioula,442.4,27.1,4,5.8,sem irrigação,159.9,4.04,3.94,5,parcial,sim,Nordeste,78.1,4389
+argiloso,5.17,17.4,crioula,839.1,28.9,7,5.8,gotejamento,89.2,3.16,3.81,9,total,não,Norte,43.6,3515
+siltoso,6.82,29.0,transgênica,719.8,25.4,9,9.9,pivô central,128.6,3.06,2.66,9,total,sim,Sul,40.4,4525
+argiloso,5.25,24.4,híbrida,705.3,18.6,6,9.6,gotejamento,187.1,0.35,3.78,7,manual,não,Norte,18.2,4796
+siltoso,6.75,16.5,transgênica,1111.2,18.2,0,7.2,pivô central,93.8,4.96,1.16,8,parcial,sim,Centro-Oeste,26.4,4331
+misto,5.94,17.4,transgênica,945.6,26.4,6,9.2,pivô central,247.2,0.64,1.18,7,total,sim,Centro-Oeste,14.7,5431
+misto,7.54,11.4,crioula,1160.2,19.4,4,9.5,gotejamento,164.2,3.02,3.91,8,total,não,Centro-Oeste,59.4,4142
+misto,4.51,13.6,transgênica,1033.8,20.3,2,7.7,gotejamento,95.2,4.16,3.43,6,total,sim,Norte,7.7,4347
+siltoso,7.02,19.6,transgênica,359.3,22.9,0,9.0,sem irrigação,111.0,1.52,2.15,2,parcial,não,Sudeste,42.8,4675
+siltoso,5.66,28.3,crioula,784.0,28.3,4,9.2,gotejamento,149.8,4.91,0.8,2,manual,sim,Norte,42.8,4888
+arenoso,5.71,15.7,crioula,609.3,19.9,3,5.0,sem irrigação,128.2,1.7,0.2,3,parcial,sim,Norte,61.7,4698
+misto,7.51,31.8,híbrida,1075.8,25.7,5,8.8,pivô central,75.1,4.85,0.12,5,total,sim,Sul,79.3,4132
+arenoso,5.77,21.8,transgênica,454.1,26.1,0,5.6,pivô central,162.5,1.88,2.58,2,total,não,Sul,84.1,4871
+misto,5.31,24.8,híbrida,444.7,27.6,1,9.1,aspersão,244.2,2.87,0.73,6,manual,sim,Norte,83.9,5290
+siltoso,5.34,19.5,transgênica,825.5,22.3,1,6.6,aspersão,86.1,1.75,0.39,7,total,não,Norte,7.5,4381
+argiloso,6.67,28.0,transgênica,994.6,20.9,7,7.7,aspersão,182.3,0.41,1.92,3,total,não,Centro-Oeste,1.1,4843
+argiloso,5.31,34.8,crioula,910.2,26.0,4,8.9,sem irrigação,164.2,2.67,4.31,3,total,não,Centro-Oeste,35.5,4891
+siltoso,5.25,32.6,híbrida,1139.0,19.4,3,5.3,sem irrigação,234.4,0.86,2.18,6,parcial,não,Sudeste,46.1,4812
+arenoso,7.72,11.4,transgênica,776.2,18.9,5,6.1,aspersão,198.5,2.38,3.03,7,total,sim,Norte,70.0,5045
+misto,7.67,33.8,transgênica,462.2,21.6,0,9.8,pivô central,218.0,3.77,0.13,3,parcial,sim,Sudeste,38.5,4928
+arenoso,7.65,33.9,crioula,910.3,28.7,7,5.7,sem irrigação,233.0,0.8,2.02,4,parcial,não,Centro-Oeste,90.6,4376
+misto,7.59,13.3,transgênica,330.3,22.8,9,6.4,pivô central,200.5,1.35,4.37,8,manual,sim,Nordeste,13.1,4374
+arenoso,7.38,24.6,transgênica,639.0,23.4,4,8.2,sem irrigação,220.0,4.66,2.92,6,total,sim,Norte,60.2,5053
+misto,4.92,25.1,híbrida,547.7,18.4,5,5.8,sem irrigação,212.7,4.39,1.29,8,manual,sim,Sudeste,10.6,4408
+misto,5.4,22.7,crioula,837.2,24.7,1,7.6,gotejamento,232.0,3.59,3.74,3,parcial,não,Nordeste,10.4,5225
+misto,7.96,16.4,híbrida,396.2,18.1,1,6.0,aspersão,144.4,2.22,0.85,1,manual,não,Sul,49.8,4599
+arenoso,6.91,13.7,transgênica,959.4,21.6,5,9.2,gotejamento,67.9,4.73,4.22,5,total,não,Norte,97.2,3958
+arenoso,6.07,16.8,transgênica,669.5,29.5,8,7.4,sem irrigação,53.3,1.02,0.06,3,total,sim,Centro-Oeste,42.8,4209
+siltoso,6.53,12.5,híbrida,1146.2,29.0,1,8.4,sem irrigação,205.7,3.0,2.48,9,parcial,não,Centro-Oeste,49.2,5466
+arenoso,4.66,33.1,transgênica,999.8,27.3,2,8.6,aspersão,100.3,4.28,0.47,5,manual,não,Nordeste,43.3,4987
+argiloso,6.17,33.4,híbrida,384.5,18.8,8,5.3,aspersão,236.8,1.04,0.09,8,manual,não,Sudeste,94.0,3928
+misto,7.59,13.5,híbrida,475.0,21.4,9,6.1,gotejamento,96.3,1.35,4.37,6,manual,não,Centro-Oeste,22.9,3678
+siltoso,7.58,11.1,híbrida,302.5,29.7,8,5.2,aspersão,222.1,0.43,2.33,4,manual,não,Sul,42.9,4757
+siltoso,4.97,29.7,transgênica,601.8,27.6,6,8.3,gotejamento,206.8,0.72,4.3,2,total,não,Centro-Oeste,33.2,4729
+arenoso,7.31,24.5,crioula,834.4,25.1,0,5.0,sem irrigação,155.1,3.59,4.44,5,parcial,não,Norte,28.7,4394
+siltoso,5.63,34.1,transgênica,563.8,23.0,2,9.2,aspersão,144.6,1.81,3.75,9,manual,não,Norte,90.4,4854
+misto,5.17,17.0,crioula,585.1,28.1,5,8.6,gotejamento,60.6,4.33,2.21,5,total,sim,Sul,3.3,4061
+siltoso,5.48,16.7,híbrida,1177.2,18.7,5,6.4,gotejamento,83.3,1.19,4.04,4,parcial,sim,Nordeste,78.6,3754
+arenoso,5.69,18.3,crioula,322.3,19.6,2,7.6,pivô central,114.2,4.04,1.9,8,manual,sim,Centro-Oeste,87.2,3986
+arenoso,6.86,23.2,transgênica,421.4,25.1,4,9.5,gotejamento,99.2,4.33,3.11,5,parcial,sim,Centro-Oeste,20.1,4302
+siltoso,7.5,33.2,transgênica,800.7,22.5,4,6.2,sem irrigação,156.3,0.11,2.59,7,manual,não,Sul,88.9,4582
+siltoso,5.7,15.9,transgênica,936.4,29.6,0,9.2,gotejamento,219.3,1.76,3.9,1,manual,não,Norte,65.5,4817
+misto,6.0,27.4,transgênica,304.0,27.2,4,8.0,pivô central,103.5,2.3,1.85,5,manual,não,Sul,24.9,4572
+arenoso,6.66,26.9,híbrida,950.0,28.8,8,7.4,sem irrigação,220.9,1.33,4.91,8,manual,sim,Sudeste,72.2,4385
+arenoso,5.18,31.3,transgênica,811.5,23.7,6,8.5,pivô central,147.5,1.71,3.68,5,manual,sim,Nordeste,63.0,5408
+argiloso,5.73,22.0,transgênica,769.8,24.2,1,6.6,aspersão,112.5,0.88,0.34,9,total,não,Centro-Oeste,41.9,4277
+siltoso,7.61,28.9,transgênica,1106.8,20.3,1,7.2,aspersão,162.7,0.09,3.99,5,manual,não,Sudeste,30.8,4647
+arenoso,5.29,24.4,crioula,883.9,20.7,9,8.0,sem irrigação,151.1,1.35,0.04,4,manual,sim,Centro-Oeste,6.5,4263
+argiloso,6.75,15.1,transgênica,857.8,25.2,4,8.4,sem irrigação,180.6,0.2,1.56,2,manual,não,Sul,58.5,5131
+argiloso,5.81,30.2,transgênica,1143.3,18.7,1,7.9,gotejamento,168.6,2.64,4.85,4,manual,não,Nordeste,45.1,5271
+arenoso,6.46,21.7,crioula,576.7,20.0,8,9.7,aspersão,61.3,0.09,2.49,7,manual,sim,Sudeste,18.2,4182
+misto,5.98,30.2,transgênica,856.4,29.7,1,7.0,gotejamento,80.3,4.79,4.75,6,total,sim,Sudeste,49.8,4595
+argiloso,5.08,32.0,híbrida,960.9,25.1,3,7.6,aspersão,140.4,3.71,4.66,7,parcial,sim,Sul,11.4,4379
+arenoso,5.79,22.2,transgênica,662.1,20.9,2,5.4,aspersão,119.3,2.13,3.22,8,total,não,Sudeste,61.3,4414
+siltoso,6.97,21.7,transgênica,982.1,21.7,3,5.7,aspersão,135.2,2.45,3.7,5,total,sim,Centro-Oeste,5.9,4299
+argiloso,4.92,23.1,crioula,1052.3,22.4,7,7.3,pivô central,238.3,1.5,3.44,6,parcial,não,Centro-Oeste,45.0,4831
+argiloso,6.2,20.4,transgênica,651.2,20.4,8,8.1,gotejamento,224.5,3.59,3.3,4,manual,não,Sul,35.6,4420
+argiloso,6.88,25.2,híbrida,703.2,28.0,9,6.3,sem irrigação,114.5,0.93,4.67,9,manual,não,Sudeste,4.5,3613
+arenoso,7.77,20.5,híbrida,663.6,27.8,3,9.8,aspersão,77.7,1.76,0.56,3,parcial,não,Norte,24.5,4282
+arenoso,7.67,34.4,híbrida,738.5,21.0,0,7.2,aspersão,153.5,1.35,4.32,6,total,não,Sul,69.2,5026
+siltoso,7.59,25.6,transgênica,334.6,22.4,2,8.4,sem irrigação,127.4,3.02,2.31,7,parcial,sim,Nordeste,9.7,4731
+arenoso,7.86,26.5,híbrida,772.3,27.9,4,6.3,gotejamento,200.7,0.74,3.94,7,parcial,não,Sudeste,21.5,4988
+misto,6.44,26.1,transgênica,562.8,18.6,7,7.9,gotejamento,125.1,2.99,0.48,6,total,sim,Centro-Oeste,47.0,4558
+misto,4.79,23.2,transgênica,455.8,18.5,8,9.6,sem irrigação,79.7,2.66,4.24,4,parcial,não,Norte,26.5,3868
+arenoso,5.19,29.4,híbrida,472.7,27.6,6,6.6,sem irrigação,202.0,4.42,4.31,3,total,não,Sudeste,80.3,4910
+arenoso,4.71,18.9,transgênica,864.0,21.1,5,5.8,sem irrigação,108.2,2.6,0.42,3,parcial,não,Centro-Oeste,54.6,4742
+misto,4.7,27.6,transgênica,488.9,19.9,9,6.9,gotejamento,65.1,0.78,2.64,9,total,não,Norte,86.5,4148
+arenoso,7.24,31.9,crioula,825.2,19.1,5,8.3,pivô central,183.5,4.73,0.01,6,parcial,não,Nordeste,62.8,4284
+misto,7.15,12.5,crioula,1158.3,22.7,4,8.6,gotejamento,229.3,4.98,0.99,5,manual,sim,Norte,27.6,4611
+siltoso,5.7,24.7,transgênica,853.5,20.7,9,8.4,aspersão,227.3,4.18,2.03,3,total,sim,Centro-Oeste,73.0,4930
+arenoso,4.68,30.2,transgênica,516.8,24.7,3,6.3,sem irrigação,213.7,2.58,4.18,1,parcial,sim,Centro-Oeste,100.0,4964
+misto,6.04,14.9,transgênica,742.6,19.1,6,9.7,sem irrigação,231.2,0.51,3.68,5,parcial,não,Sul,76.1,5175
+misto,4.55,28.6,crioula,560.4,21.4,5,8.7,aspersão,112.0,1.29,0.85,2,manual,não,Sudeste,43.6,4477
+arenoso,7.19,14.8,híbrida,851.1,20.7,8,6.3,pivô central,235.5,0.18,2.66,2,total,sim,Norte,8.6,4815
+misto,7.05,14.4,transgênica,564.4,22.3,5,5.8,gotejamento,184.9,2.87,3.06,4,total,sim,Norte,12.6,4071
+arenoso,4.63,22.2,transgênica,344.9,27.6,1,6.4,gotejamento,53.3,0.34,1.77,7,parcial,não,Sul,59.6,4012
+arenoso,7.13,18.3,crioula,651.1,29.3,1,8.9,sem irrigação,214.3,3.26,1.83,6,total,não,Norte,4.9,4724
+argiloso,7.16,17.8,crioula,1101.3,27.9,0,7.2,aspersão,199.2,2.46,3.92,2,parcial,não,Norte,97.5,4651
+argiloso,5.5,24.1,transgênica,363.2,24.4,1,9.3,sem irrigação,230.3,3.14,0.61,2,parcial,sim,Centro-Oeste,78.2,6104
+argiloso,7.3,16.8,transgênica,852.5,25.6,8,6.5,gotejamento,58.6,2.66,4.01,5,manual,não,Nordeste,15.0,3504
+misto,7.73,13.8,híbrida,941.4,19.3,9,5.7,aspersão,225.5,1.72,1.63,3,total,sim,Sudeste,35.2,4711
+arenoso,5.68,10.3,crioula,503.9,25.1,9,7.3,aspersão,226.9,2.3,4.63,2,total,não,Nordeste,15.1,4387
+siltoso,5.94,21.9,híbrida,539.1,26.3,5,8.1,sem irrigação,249.2,0.3,1.38,7,parcial,não,Norte,44.9,5193
+argiloso,7.01,26.8,híbrida,689.1,27.4,6,7.9,sem irrigação,212.2,2.22,0.75,7,manual,sim,Sul,46.7,4752
+argiloso,7.01,24.3,híbrida,477.6,24.7,8,9.8,aspersão,185.6,0.42,2.24,3,total,sim,Norte,85.1,4565
+misto,6.39,34.2,híbrida,776.2,22.9,5,7.0,aspersão,94.9,1.25,3.45,5,total,não,Sul,72.8,4128
+arenoso,7.86,26.6,crioula,1097.0,27.6,8,5.5,pivô central,243.8,1.89,3.13,1,parcial,sim,Centro-Oeste,47.2,4611
+misto,4.61,27.4,crioula,837.8,26.6,7,5.8,gotejamento,94.2,2.49,4.63,2,total,não,Norte,85.9,3902
+siltoso,5.81,16.9,crioula,918.0,18.7,8,9.1,sem irrigação,183.6,2.71,2.46,8,parcial,sim,Norte,55.6,4804
+siltoso,5.56,11.4,transgênica,904.1,22.9,1,6.7,sem irrigação,53.9,3.0,0.33,8,total,sim,Nordeste,5.8,4389
+misto,7.39,18.1,transgênica,552.2,21.4,6,9.4,aspersão,75.1,2.04,2.8,1,total,não,Nordeste,12.2,3605
+argiloso,4.71,34.4,crioula,1184.0,26.1,4,8.8,aspersão,125.4,0.35,2.69,3,manual,sim,Sudeste,12.5,4793
+misto,7.6,13.9,crioula,1100.3,28.5,8,5.1,aspersão,199.9,1.07,1.56,2,parcial,não,Nordeste,46.2,3940
+argiloso,4.59,33.1,crioula,632.9,19.6,0,9.6,gotejamento,225.5,2.9,0.6,6,parcial,não,Sul,78.9,5085
+arenoso,7.45,24.4,transgênica,301.6,24.9,8,9.4,pivô central,126.2,3.8,0.73,9,manual,sim,Nordeste,39.2,5107
+siltoso,6.27,26.3,transgênica,606.3,18.9,4,6.2,pivô central,201.8,2.86,3.26,5,parcial,não,Sul,59.1,4687
+misto,5.3,34.6,crioula,322.7,28.3,0,7.6,sem irrigação,143.7,2.4,4.73,4,manual,sim,Norte,68.7,5121
+argiloso,6.03,19.2,crioula,418.7,21.6,8,7.5,aspersão,51.4,2.43,0.05,7,parcial,sim,Nordeste,12.3,3670
+misto,6.63,18.2,crioula,379.7,22.1,2,7.0,aspersão,122.0,2.51,1.65,8,manual,sim,Norte,78.6,4812
+misto,5.19,21.9,híbrida,325.3,23.7,0,8.8,pivô central,89.8,2.23,1.07,1,parcial,sim,Sudeste,43.3,4622
+siltoso,6.84,28.3,crioula,361.3,28.4,9,7.8,gotejamento,114.4,0.95,3.19,8,manual,sim,Sudeste,69.3,3750
+argiloso,5.82,17.9,híbrida,816.0,28.5,0,6.6,aspersão,186.2,3.8,0.57,5,manual,sim,Sudeste,91.8,4968
+argiloso,5.96,34.1,transgênica,864.7,26.8,8,5.6,pivô central,138.4,3.51,0.31,3,parcial,não,Sul,64.5,4392
+argiloso,6.14,27.6,híbrida,560.7,29.6,5,8.4,sem irrigação,182.5,2.03,1.28,8,manual,não,Sul,8.9,5011
+arenoso,7.61,28.4,crioula,1122.4,21.5,6,6.4,aspersão,137.8,3.02,4.24,7,parcial,sim,Norte,24.2,4127
+misto,4.53,16.7,transgênica,1024.9,25.2,2,6.8,gotejamento,229.8,3.88,3.24,8,manual,sim,Centro-Oeste,84.9,4635
+siltoso,7.65,20.9,crioula,1073.3,19.1,2,5.2,gotejamento,52.3,1.49,2.1,8,total,não,Sul,33.3,4060
+siltoso,5.63,15.1,crioula,1029.4,20.1,4,8.3,gotejamento,90.3,4.03,0.23,3,manual,sim,Sul,86.0,5053
+misto,5.09,10.7,híbrida,1197.6,22.3,2,5.4,sem irrigação,109.5,0.41,0.69,3,parcial,sim,Nordeste,12.6,3878
+siltoso,5.92,25.4,crioula,367.4,20.1,5,5.2,sem irrigação,219.8,2.38,4.04,6,parcial,não,Centro-Oeste,88.7,5011
+argiloso,5.73,21.3,transgênica,1065.8,27.7,8,5.7,sem irrigação,170.2,4.66,3.26,9,manual,não,Centro-Oeste,29.2,4139
+argiloso,6.94,18.5,transgênica,881.2,21.0,0,6.4,aspersão,115.6,0.37,4.26,1,manual,não,Centro-Oeste,89.9,4285
+arenoso,7.36,14.5,crioula,984.5,25.8,4,8.8,pivô central,119.5,1.27,1.28,2,parcial,sim,Nordeste,8.8,4549
+siltoso,5.96,26.7,crioula,1100.9,20.7,0,8.4,gotejamento,103.6,0.23,3.48,1,manual,não,Sudeste,15.5,4215
+misto,5.47,26.7,transgênica,596.5,28.2,1,8.3,aspersão,137.3,2.0,0.12,6,total,não,Centro-Oeste,71.2,5028
+misto,4.62,14.7,crioula,366.0,26.9,2,9.3,gotejamento,56.1,1.16,4.45,9,manual,sim,Norte,97.4,3809
+argiloso,7.2,30.8,híbrida,1193.5,20.8,4,6.9,aspersão,59.3,0.11,2.25,9,manual,sim,Centro-Oeste,97.5,3629
+argiloso,5.46,17.1,transgênica,1027.2,19.6,2,5.1,gotejamento,179.9,4.53,1.62,1,parcial,sim,Sudeste,78.2,4728
+arenoso,6.64,20.5,híbrida,467.6,24.8,7,9.0,aspersão,208.2,2.6,2.67,8,parcial,não,Norte,27.7,4659
+argiloso,4.81,11.0,crioula,662.1,20.1,8,6.1,pivô central,222.3,4.69,1.25,6,parcial,não,Centro-Oeste,5.5,3938
+siltoso,5.13,31.8,crioula,1164.4,25.6,8,5.8,pivô central,240.8,1.97,0.44,6,manual,não,Sudeste,57.4,4372
+arenoso,5.19,31.8,transgênica,528.5,22.5,7,6.5,gotejamento,151.5,2.05,4.71,8,manual,sim,Sul,99.4,4622
+argiloso,7.45,29.3,híbrida,881.0,22.9,3,5.4,gotejamento,188.1,2.67,4.8,4,manual,sim,Centro-Oeste,50.2,4792
+siltoso,5.97,17.5,híbrida,1140.3,20.4,2,6.3,sem irrigação,139.6,2.84,0.99,7,parcial,sim,Norte,5.5,4711
+siltoso,5.88,20.1,transgênica,1130.7,19.4,7,8.0,aspersão,59.2,3.91,4.76,7,manual,sim,Sul,93.2,3832
+argiloso,5.3,24.1,híbrida,1092.0,30.0,2,6.9,gotejamento,126.0,3.09,1.83,1,total,sim,Sul,6.6,4809
